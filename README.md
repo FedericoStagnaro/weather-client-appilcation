@@ -1,4 +1,4 @@
-# Template-Webpack-React-TypeScript
+# Wheater-Client-Application
 
 ### Technologies
    - Typescript

@@ -9,7 +9,7 @@ module.exports = (env, argv) => {
         mode: argv.mode,
         devServer: {
             watchFiles: "src/**/*",
-            port: 3000,
+            port: 3001,
             historyApiFallback: true
         },
         module: {
